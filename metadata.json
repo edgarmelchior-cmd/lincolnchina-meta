@@ -1,0 +1,17 @@
+{
+  "name": "LincolnChina",
+  "symbol": "LINCOL",
+  "description": "LincolnChina Token - Devnet Test",
+  "image": "https://raw.githubusercontent.com/edgarmelchior-cmd/lincolnchina-meta/main/logolincolnchina.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/edgarmelchior-cmd/lincolnchina-meta/main/logolincolnchina.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
+
